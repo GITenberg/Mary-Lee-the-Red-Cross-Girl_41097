@@ -1,0 +1,39 @@
+_repo: Mary-Lee-the-Red-Cross-Girl_41097
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Carsey, Alice
+    gutenberg_agent_id: '6982'
+    url: http://www.gutenberg.org/2009/agents/6982
+covers:
+- cover_type: archival
+  image_path: 41097-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hart, Helen
+    aliases:
+    - Hart, Hélène
+    - Hart, Helene
+    birthdate: 1890
+    deathdate: 1952
+    gutenberg_agent_id: '40974'
+    url: http://www.gutenberg.org/2009/agents/40974
+    wikipedia: http://www.gutenberg.org/browse/authors/l#a2097
+description: ''
+gutenberg_issued: '2012-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41097'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Optimism -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Farm life -- Juvenile fiction'
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+- !lcsh 'Red Cross and Red Crescent -- Juvenile fiction'
+- !lcc 'PZ'
+title: Mary Lee the Red Cross Girl
+url: http://www.gutenberg.org/ebooks/41097
