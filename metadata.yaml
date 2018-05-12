@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40974
     wikipedia: http://www.gutenberg.org/browse/authors/l#a2097
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41097#Mary-Lee-the-Red-Cross-Girl
 gutenberg_issued: '2012-10-18'
 gutenberg_type: Text
 identifiers:
